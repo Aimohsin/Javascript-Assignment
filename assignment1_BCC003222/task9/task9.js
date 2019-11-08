@@ -1,0 +1,10 @@
+var a = 7;
+var b = 4;
+var c = a - b;
+var d = a * b;
+var e = a / b;
+var f = a % b;
+document.write("Subtraction: " + a + " - " + b + " = " + c + " <br>");
+document.write("Multiplication: " + a + " * " + b + " = " + d + "<br>");
+document.write("Division:" + a + " / " + b + " = " + e + "<br>");
+document.write("Modulus:" + a + " % " + b + " = " + f + "<br>");

@@ -1,0 +1,1 @@
+document.write("Variables names can only contains numbers, $, alphabets. For Example: $my_FirstVariable<br> Variables must begin with a letter $, or alphabets. For Example: $name, _name, name <br> Variable names are case sensitive. <br> Variables names should not be JS keyord");
